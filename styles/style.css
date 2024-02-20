@@ -241,10 +241,6 @@ img {
   object-position: center;
 }
 
-.preloader-template {
-  position: absolute;
-}
-
 .content__video-card {
   display: flex;
   justify-content: space-between;
